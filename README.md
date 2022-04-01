@@ -1,0 +1,2 @@
+# Deep-Learning-Based-Churn-Prediction-in-the-Banking-Sector
+ Churn prediction is a common use case in the machine learning domain. If you are not familiar with the term, churn means “leaving the company”. It is very critical for a business to have an idea about why and when customers are likely to churn. Having a robust and accurate churn prediction model helps businesses to take action to prevent customers from leaving the company. In this repository we will be using banking sector dataset and will predict will a particular client will get churned or not.
